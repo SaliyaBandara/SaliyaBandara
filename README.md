@@ -22,7 +22,7 @@ Full Stack Developer | CS Undergraduate
 I'm a Computer Science undergraduate from the University of Colombo School of Computing with a knack for fullstack web development and beyond. Aspiring to craft seamless digital experiences. 🚀 Competitive Programmer | AI/Machine Learning Enthusiast 🤖 When I'm not coding for projects, you can find me immersed in competitive programming challenges, honing my problem-solving skills. Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate.
 
 * 🌍  I'm based in Colombo, Sri Lanka
-* 🖥️  See my portfolio at [saliya.me](http://saliya.me)
+* 🖥️  See my portfolio at [saliya.me](https://saliya.me)
 * ✉️  You can contact me at [saliya\_bandara@outlook.com](mailto:saliya_bandara@outlook.com)
 
 ### Skills
